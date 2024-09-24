@@ -1,4 +1,5 @@
 <h1>Task summary</h1>
+<p>Author: Olga Liberzon</p>
 <p>The app represents a data management program that reads JSON data from a file and represents it in Excel format in 3 data layers.</p>
 
 <p>
